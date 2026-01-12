@@ -5,6 +5,7 @@
 This repository contains the source code for my personal portfolio website, designed to showcase my skills, projects, and journey as a web developer. The portfolio focuses on clean UI, responsive design, and modern frontend practices.
 
 ## 🔗 Live Demo
+https://my-portfolio-khushi.netlify.app/
 
 👉 **Portfolio Website:** 
 
