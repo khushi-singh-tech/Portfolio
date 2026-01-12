@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website, desi
 
 ## 🔗 Live Demo
 
-👉 **Portfolio Website:** [https://my-portfolio-khushi.netlify.app/]
+👉 **Portfolio Website:** 
 
 ## 📌 About the Portfolio
 
