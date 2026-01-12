@@ -1,3 +1,3 @@
 
 
-Live Demo : https://khushi-my-portfolio.netlify.app/
+Live Demo : https://my-portfolio-khushi.netlify.app/
